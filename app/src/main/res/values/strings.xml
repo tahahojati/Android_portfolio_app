@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Dev Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_taha">Hi I\'m Taha</string>
+    <string name="contact_taha">sdf</string>
+    <string name="skills">sfdfww</string>
+    <string name="work">wfgedgedg</string>
 </resources>
