@@ -1,13 +1,13 @@
-package io.tpourjalali.portfolio.controller;
+package com.tpourjalali.portfolio.controller;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import io.tpourjalali.portfolio.views.AboutFragment;
-import io.tpourjalali.portfolio.views.ContactFragment;
-import io.tpourjalali.portfolio.views.SkillsFragment;
-import io.tpourjalali.portfolio.views.WorkFragment;
+import com.tpourjalali.portfolio.views.AboutFragment;
+import com.tpourjalali.portfolio.views.ContactFragment;
+import com.tpourjalali.portfolio.views.SkillsFragment;
+import com.tpourjalali.portfolio.views.WorkFragment;
 
 /**
  * Created by ProfessorTaha on 2/25/2018.

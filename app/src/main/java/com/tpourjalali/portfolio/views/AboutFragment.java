@@ -1,4 +1,4 @@
-package io.tpourjalali.portfolio.views;
+package com.tpourjalali.portfolio.views;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
