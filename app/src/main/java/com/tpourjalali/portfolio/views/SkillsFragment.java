@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import io.tpourjalali.portfolio.R;
+import com.tpourjalali.portfolio.R;
 
 
 public class SkillsFragment extends Fragment {

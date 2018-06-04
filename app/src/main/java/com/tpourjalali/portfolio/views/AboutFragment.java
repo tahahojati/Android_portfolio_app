@@ -7,7 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import io.tpourjalali.portfolio.R;
+import com.tpourjalali.portfolio.R;
+
 
 public class AboutFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
